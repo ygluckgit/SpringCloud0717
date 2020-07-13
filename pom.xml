@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.yg.cloud</groupId>
-  <artifactId>SpringCloud0712</artifactId>
+  <artifactId>SpringCloud0717</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
   <modules>
